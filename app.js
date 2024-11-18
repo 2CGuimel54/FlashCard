@@ -1,4 +1,4 @@
-///Miguel Isaac Vasconcelos Gomes 2ºC///
+///Miguel Isaac Vasconcelos Gomes 2ºC 07/11/2024///
 
 function criaCartao(categoria, pergunta, resposta) {
     let container = document.getElementById('container')
